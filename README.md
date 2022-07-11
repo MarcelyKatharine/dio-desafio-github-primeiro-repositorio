@@ -1,5 +1,8 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o desafio de projeto
+# Bootcamp - Fullstack e JavaScript
+Repositório criado para o desafio de projeto. <br>
+Evolução de aprendizado com o Bootcamp Fullstack - Santander e com o Bootcamp - JavaScript Evolution.
+
+Proporcionado pela plataforma de ensino DIO.ME
 
 
 ## Links úteis
